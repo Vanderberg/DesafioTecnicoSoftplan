@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8u7Cp+qQObbK7z+0aMxTiXJlnSVJDfDF+UTxFhpYolV1fLRMJLJBYBkSAeJRvdbu/bVz+vnaMFxiq1OuJvig+Q==",
+  "success": true,
+  "projectFilePath": "C:\\GIT\\Pessoal\\DesafioTecnicoSoftplan\\src\\TaxaJurosAPI\\TaxaJurosAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://artifactory.softplan.com.br/artifactory/api/nuget/v3/nuget-local'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
